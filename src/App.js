@@ -1,11 +1,12 @@
 import React from 'react'
+import Navbar from './components/Navbar'
+import Header from './components/Header'
 
 const App = () => {
   return (
     <>
-    <div className="bg-slate-600">
-      <h1 className='px-4'>this is navbar</h1>
-    </div>
+      <Navbar/>
+      <Header/>
     </>
   )
 }
