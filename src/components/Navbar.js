@@ -39,13 +39,13 @@ const Navbar = () => {
                 <a href="#emotions" className="transition duration-300 ease-in-out hover:text-blue-900">Emotions</a>
               </li>
               <li>
-                <a href="#manifesto" className="transition duration-300 ease-in-out hover:text-blue-900">Manifesto</a>
+                <a href="#manifesto" className="transition duration-300 ease-in-out hover:text-blue-900">See The Horizon</a>
               </li>
               <li>
                 <a href="#self-awareness-test" className="transition duration-300 ease-in-out hover:text-blue-900">Self-Awareness Test</a>
               </li>
               <li>
-                <a href="#work-with-us" className="transition duration-300 ease-in-out hover:text-blue-900">Work With Us</a>
+                <a href="#work-with-us" className="transition duration-300 ease-in-out hover:text-blue-900">Join With Us</a>
               </li>
             </ul>
           )}
